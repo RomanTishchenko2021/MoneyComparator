@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyComparator", "MoneyComparator\MoneyComparator.csproj", "{8A8F8963-E8D1-4804-9E79-03810D345996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTests", "MoneyTests\MoneyTests.csproj", "{35F3772C-4BD3-4819-9310-85DBF53E278B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8F8963-E8D1-4804-9E79-03810D345996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8F8963-E8D1-4804-9E79-03810D345996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8F8963-E8D1-4804-9E79-03810D345996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8F8963-E8D1-4804-9E79-03810D345996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F3772C-4BD3-4819-9310-85DBF53E278B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F3772C-4BD3-4819-9310-85DBF53E278B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F3772C-4BD3-4819-9310-85DBF53E278B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F3772C-4BD3-4819-9310-85DBF53E278B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C6C3DF-9047-453D-9D7E-4BF48D5EC89F}
+	EndGlobalSection
+EndGlobal
